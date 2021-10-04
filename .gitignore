@@ -1,0 +1,3 @@
+*.pstats
+*.speedscope
+*.sqlite3
