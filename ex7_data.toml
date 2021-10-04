@@ -1,0 +1,579 @@
+[[authors]]
+id = 1
+name = "Marcus Aurelius"
+
+[[books]]
+author_id = 1
+title = "Meditations"
+
+
+[[authors]]
+id = 2
+name = "Jane Austen"
+
+[[books]]
+author_id = 2
+title = "Sense and Sensibility"
+
+[[books]]
+author_id = 2
+title = "Pride and Prejudice"
+
+[[books]]
+author_id = 2
+title = "Mansfield Park"
+
+[[books]]
+author_id = 2
+title = "Emma"
+
+[[books]]
+author_id = 2
+title = "Northanger Abbey"
+
+[[books]]
+author_id = 2
+title = "Persuasion"
+
+[[books]]
+author_id = 2
+title = "Lady Susan"
+
+
+[[authors]]
+id = 3
+name = "Charles Dickens"
+
+[[books]]
+author_id = 3
+title = "The Pickwick Papers"
+
+[[books]]
+author_id = 3
+title = "Oliver Twist"
+
+[[books]]
+author_id = 3
+title = "Nicholas Nickleby"
+
+[[books]]
+author_id = 3
+title = "The Old Curiosity Shop"
+
+[[books]]
+author_id = 3
+title = "Barnaby Rudge"
+
+[[books]]
+author_id = 3
+title = "A Christmas Carol"
+
+[[books]]
+author_id = 3
+title = "Martin Chuzzlewit"
+
+[[books]]
+author_id = 3
+title = "The Chimes"
+
+[[books]]
+author_id = 3
+title = "The Cricket on the Hearth"
+
+[[books]]
+author_id = 3
+title = "The Battle of Life"
+
+[[books]]
+author_id = 3
+title = "Dombey and Son"
+
+[[books]]
+author_id = 3
+title = "The Haunted Man"
+
+[[books]]
+author_id = 3
+title = "David Copperfield"
+
+[[books]]
+author_id = 3
+title = "Bleak House"
+
+[[books]]
+author_id = 3
+title = "Hard Times"
+
+[[books]]
+author_id = 3
+title = "Little Dorrit"
+
+[[books]]
+author_id = 3
+title = "A Tale of Two Cities"
+
+[[books]]
+author_id = 3
+title = "Great Expectations"
+
+[[books]]
+author_id = 3
+title = "Our Mutual Friend"
+
+[[books]]
+author_id = 3
+title = "The Signal-Man"
+
+[[books]]
+author_id = 3
+title = "Edwin Drood"
+
+
+[[authors]]
+id = 4
+name = "William Shakespeare"
+
+[[books]]
+author_id = 4
+title = "The Tempest"
+
+[[books]]
+author_id = 4
+title = "The Two Gentlemen of Verona"
+
+[[books]]
+author_id = 4
+title = "The Merry Wives of Windsor"
+
+[[books]]
+author_id = 4
+title = "Measure for Measure"
+
+[[books]]
+author_id = 4
+title = "The Comedy of Errors"
+
+[[books]]
+author_id = 4
+title = "Much Ado About Nothing"
+
+[[books]]
+author_id = 4
+title = "Love's Labour's Lost"
+
+[[books]]
+author_id = 4
+title = "A Midsummer Night's Dream"
+
+[[books]]
+author_id = 4
+title = "The Merchant of Venice"
+
+[[books]]
+author_id = 4
+title = "As You Like It"
+
+[[books]]
+author_id = 4
+title = "The Taming of the Shrew"
+
+[[books]]
+author_id = 4
+title = "All's Well That Ends Well"
+
+[[books]]
+author_id = 4
+title = "Twelfth Night"
+
+[[books]]
+author_id = 4
+title = "The Winter's Tale"
+
+[[books]]
+author_id = 4
+title = "King John"
+
+[[books]]
+author_id = 4
+title = "Richard II"
+
+[[books]]
+author_id = 4
+title = "Henry IV, Part 1"
+
+[[books]]
+author_id = 4
+title = "Henry IV, Part 2"
+
+[[books]]
+author_id = 4
+title = "Henry V"
+
+[[books]]
+author_id = 4
+title = "Henry VI, Part 1"
+
+[[books]]
+author_id = 4
+title = "Henry VI, Part 2"
+
+[[books]]
+author_id = 4
+title = "Henry VI, Part 3"
+
+[[books]]
+author_id = 4
+title = "Richard III"
+
+[[books]]
+author_id = 4
+title = "Henry VIII"
+
+[[books]]
+author_id = 4
+title = "Troilus and Cressida"
+
+[[books]]
+author_id = 4
+title = "Coriolanus"
+
+[[books]]
+author_id = 4
+title = "Titus Andronicus"
+
+[[books]]
+author_id = 4
+title = "Romeo and Juliet"
+
+[[books]]
+author_id = 4
+title = "Timon of Athens"
+
+[[books]]
+author_id = 4
+title = "Julius Caesar"
+
+[[books]]
+author_id = 4
+title = "Macbeth"
+
+[[books]]
+author_id = 4
+title = "Hamlet"
+
+[[books]]
+author_id = 4
+title = "King Lear"
+
+[[books]]
+author_id = 4
+title = "Othello"
+
+[[books]]
+author_id = 4
+title = "Antony and Cleopatra"
+
+[[books]]
+author_id = 4
+title = "Cymbeline"
+
+
+[[authors]]
+id = 5
+name = "Agatha Christie"
+
+[[books]]
+author_id = 5
+title = "The Mysterious Affair at Styles"
+
+[[books]]
+author_id = 5
+title = "The Secret Adversary"
+
+[[books]]
+author_id = 5
+title = "The Murder on the Links"
+
+[[books]]
+author_id = 5
+title = "The Man in the Brown Suit"
+
+[[books]]
+author_id = 5
+title = "The Secret of Chimneys"
+
+[[books]]
+author_id = 5
+title = "The Murder of Roger Ackroyd"
+
+[[books]]
+author_id = 5
+title = "The Big Four"
+
+[[books]]
+author_id = 5
+title = "The Mystery of the Blue Train"
+
+[[books]]
+author_id = 5
+title = "The Seven Dials Mystery"
+
+[[books]]
+author_id = 5
+title = "The Murder at the Vicarage"
+
+[[books]]
+author_id = 5
+title = "Giant's Bread"
+
+[[books]]
+author_id = 5
+title = "The Floating Admiral"
+
+[[books]]
+author_id = 5
+title = "The Sittaford Mystery"
+
+[[books]]
+author_id = 5
+title = "Peril at End House"
+
+[[books]]
+author_id = 5
+title = "Lord Edgware Dies"
+
+[[books]]
+author_id = 5
+title = "Murder on the Orient Express"
+
+[[books]]
+author_id = 5
+title = "Unfinished Portrait"
+
+[[books]]
+author_id = 5
+title = "Why Didn't They Ask Evans?"
+
+[[books]]
+author_id = 5
+title = "Three Act Tragedy"
+
+[[books]]
+author_id = 5
+title = "Death in the Clouds"
+
+[[books]]
+author_id = 5
+title = "The A.B.C. Murders"
+
+[[books]]
+author_id = 5
+title = "Murder in Mesopotamia"
+
+[[books]]
+author_id = 5
+title = "Cards on the Table"
+
+[[books]]
+author_id = 5
+title = "Dumb Witness"
+
+[[books]]
+author_id = 5
+title = "Death on the Nile"
+
+[[books]]
+author_id = 5
+title = "Appointment with Death"
+
+[[books]]
+author_id = 5
+title = "Hercule Poirot's Christmas"
+
+[[books]]
+author_id = 5
+title = "Murder Is Easy"
+
+[[books]]
+author_id = 5
+title = "Ten Little Indians"
+
+[[books]]
+author_id = 5
+title = "Sad Cypress"
+
+[[books]]
+author_id = 5
+title = "One, Two, Buckle My Shoe"
+
+[[books]]
+author_id = 5
+title = "Evil Under the Sun"
+
+[[books]]
+author_id = 5
+title = "N or M?"
+
+[[books]]
+author_id = 5
+title = "The Body in the Library"
+
+[[books]]
+author_id = 5
+title = "Five Little Pigs"
+
+[[books]]
+author_id = 5
+title = "The Moving Finger"
+
+[[books]]
+author_id = 5
+title = "Towards Zero"
+
+[[books]]
+author_id = 5
+title = "Absent in the Spring"
+
+[[books]]
+author_id = 5
+title = "Death Comes as the End"
+
+[[books]]
+author_id = 5
+title = "Sparkling Cyanide"
+
+[[books]]
+author_id = 5
+title = "The Hollow"
+
+[[books]]
+author_id = 5
+title = "Taken at the Flood"
+
+[[books]]
+author_id = 5
+title = "The Rose and the Yew Tree"
+
+[[books]]
+author_id = 5
+title = "Crooked House"
+
+[[books]]
+author_id = 5
+title = "A Murder Is Announced"
+
+[[books]]
+author_id = 5
+title = "They Came to Baghdad"
+
+[[books]]
+author_id = 5
+title = "Mrs McGinty's Dead"
+
+[[books]]
+author_id = 5
+title = "They Do It with Mirrors"
+
+[[books]]
+author_id = 5
+title = "A Daughter's a Daughter"
+
+[[books]]
+author_id = 5
+title = "After the Funeral"
+
+[[books]]
+author_id = 5
+title = "A Pocket Full of Rye"
+
+[[books]]
+author_id = 5
+title = "Destination Unknown"
+
+[[books]]
+author_id = 5
+title = "Hickory Dickory Dock"
+
+[[books]]
+author_id = 5
+title = "Dead Man's Folly"
+
+[[books]]
+author_id = 5
+title = "The Burden"
+
+[[books]]
+author_id = 5
+title = "4.50 from Paddington"
+
+[[books]]
+author_id = 5
+title = "Ordeal by Innocence"
+
+[[books]]
+author_id = 5
+title = "Cat Among the Pigeons"
+
+[[books]]
+author_id = 5
+title = "The Pale Horse"
+
+[[books]]
+author_id = 5
+title = "The Mirror Crack'd from Side to Side"
+
+[[books]]
+author_id = 5
+title = "The Clocks"
+
+[[books]]
+author_id = 5
+title = "A Caribbean Mystery"
+
+[[books]]
+author_id = 5
+title = "At Bertram's Hotel"
+
+[[books]]
+author_id = 5
+title = "Third Girl"
+
+[[books]]
+author_id = 5
+title = "Endless Night"
+
+[[books]]
+author_id = 5
+title = "By the Pricking of My Thumbs"
+
+[[books]]
+author_id = 5
+title = "Hallowe'en Party"
+
+[[books]]
+author_id = 5
+title = "Passenger to Frankfurt"
+
+[[books]]
+author_id = 5
+title = "Nemesis"
+
+[[books]]
+author_id = 5
+title = "Elephants Can Remember"
+
+[[books]]
+author_id = 5
+title = "Postern of Fate"
+
+[[books]]
+author_id = 5
+title = "Curtain"
+
+[[books]]
+author_id = 5
+title = "Sleeping Murder"
+
+[[books]]
+author_id = 5
+title = "Hercule Poirot and the Greenshore Folly"

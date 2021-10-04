@@ -1,1 +1,7 @@
+fastapi
+fastapi-debug-toolbar
 ipython
+py-spy
+toml
+yelp-gprof2dot
+uvicorn[standard]
