@@ -10,11 +10,11 @@ from typing import NoReturn
 
 def main() -> None:
     log("Starting main()")
-    pause(0.25)
+    apple()
     log("Doing maths")
     cherry()
     log("Final operation")
-    pause(0.75)
+    banana(0.75)
 
 
 def log(message: str) -> None:
